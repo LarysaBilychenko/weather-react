@@ -9,6 +9,12 @@ root.render(
   <React.StrictMode>
     <div>Weather App</div>
     <App />
+    <footer>
+      <a href="https://github.com/LarysaBilychenko/weather-react">
+        Open-source code
+      </a>
+      , by Larysa Bilychenko
+    </footer>
   </React.StrictMode>
 );
 
